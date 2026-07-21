@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806289354637",
+    "project_id": "cybersecurityapp-ff08a",
+    "storage_bucket": "cybersecurityapp-ff08a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806289354637:android:03215f9e20b54d68c657c4",
+        "android_client_info": {
+          "package_name": "com.example.coolapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqiy5bth5AVMk1DwBxjjFZxslSkGrDAv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

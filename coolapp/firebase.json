@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "cybersecurityapp-ff08a",
+          "appId": "1:806289354637:android:03215f9e20b54d68c657c4",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "cybersecurityapp-ff08a",
+          "configurations": {
+            "android": "1:806289354637:android:03215f9e20b54d68c657c4",
+            "ios": "1:806289354637:ios:662f3bb47c084effc657c4",
+            "macos": "1:806289354637:ios:662f3bb47c084effc657c4",
+            "web": "1:806289354637:web:a181931deb3a4845c657c4",
+            "windows": "1:806289354637:web:479e7d2fcd595767c657c4"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
